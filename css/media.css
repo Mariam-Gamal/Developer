@@ -1,0 +1,17 @@
+@media screen and ( max-width: 992px) {
+    nav ul{
+    background-color: #fff;
+    }
+    .nav-link {
+    color:black;}
+    .navbar-nav .nav-link.active{
+        color: black !important;
+    }
+    .nav-link:hover{
+        color:#0078ff ;
+    }
+    .navbar-nav .nav-link.active:hover{
+        color:#0078ff !important;
+    }
+    
+}
